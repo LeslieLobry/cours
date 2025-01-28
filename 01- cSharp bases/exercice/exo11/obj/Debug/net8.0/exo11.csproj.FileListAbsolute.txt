@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo11\bin\Debug\net8.0\exo11.exe
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo11\bin\Debug\net8.0\exo11.deps.json
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo11\bin\Debug\net8.0\exo11.runtimeconfig.json
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo11\bin\Debug\net8.0\exo11.dll
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo11\bin\Debug\net8.0\exo11.pdb
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo11\obj\Debug\net8.0\exo11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo11\obj\Debug\net8.0\exo11.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo11\obj\Debug\net8.0\exo11.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo11\obj\Debug\net8.0\exo11.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo11\obj\Debug\net8.0\exo11.dll
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo11\obj\Debug\net8.0\refint\exo11.dll
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo11\obj\Debug\net8.0\exo11.pdb
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo11\obj\Debug\net8.0\exo11.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo11\obj\Debug\net8.0\ref\exo11.dll

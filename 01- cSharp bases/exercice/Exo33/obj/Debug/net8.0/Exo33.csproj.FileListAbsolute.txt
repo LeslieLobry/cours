@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\Exo33\bin\Debug\net8.0\Exo33.exe
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\Exo33\bin\Debug\net8.0\Exo33.deps.json
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\Exo33\bin\Debug\net8.0\Exo33.runtimeconfig.json
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\Exo33\bin\Debug\net8.0\Exo33.dll
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\Exo33\bin\Debug\net8.0\Exo33.pdb
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\Exo33\obj\Debug\net8.0\Exo33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\Exo33\obj\Debug\net8.0\Exo33.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\Exo33\obj\Debug\net8.0\Exo33.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\Exo33\obj\Debug\net8.0\Exo33.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\Exo33\obj\Debug\net8.0\Exo33.dll
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\Exo33\obj\Debug\net8.0\refint\Exo33.dll
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\Exo33\obj\Debug\net8.0\Exo33.pdb
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\Exo33\obj\Debug\net8.0\Exo33.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\Exo33\obj\Debug\net8.0\ref\Exo33.dll

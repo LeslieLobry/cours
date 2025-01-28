@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\c_sharp_avancé\c_sharp_avancé\bin\Debug\net8.0\c_sharp_avancé.exe
+C:\Users\Administrateur\Desktop\c_sharp_avancé\c_sharp_avancé\bin\Debug\net8.0\c_sharp_avancé.deps.json
+C:\Users\Administrateur\Desktop\c_sharp_avancé\c_sharp_avancé\bin\Debug\net8.0\c_sharp_avancé.runtimeconfig.json
+C:\Users\Administrateur\Desktop\c_sharp_avancé\c_sharp_avancé\bin\Debug\net8.0\c_sharp_avancé.dll
+C:\Users\Administrateur\Desktop\c_sharp_avancé\c_sharp_avancé\bin\Debug\net8.0\c_sharp_avancé.pdb
+C:\Users\Administrateur\Desktop\c_sharp_avancé\c_sharp_avancé\obj\Debug\net8.0\c_sharp_avancé.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\c_sharp_avancé\c_sharp_avancé\obj\Debug\net8.0\c_sharp_avancé.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\c_sharp_avancé\c_sharp_avancé\obj\Debug\net8.0\c_sharp_avancé.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\c_sharp_avancé\c_sharp_avancé\obj\Debug\net8.0\c_sharp_avancé.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\c_sharp_avancé\c_sharp_avancé\obj\Debug\net8.0\c_sharp_avancé.dll
+C:\Users\Administrateur\Desktop\c_sharp_avancé\c_sharp_avancé\obj\Debug\net8.0\refint\c_sharp_avancé.dll
+C:\Users\Administrateur\Desktop\c_sharp_avancé\c_sharp_avancé\obj\Debug\net8.0\c_sharp_avancé.pdb
+C:\Users\Administrateur\Desktop\c_sharp_avancé\c_sharp_avancé\obj\Debug\net8.0\c_sharp_avancé.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\c_sharp_avancé\c_sharp_avancé\obj\Debug\net8.0\ref\c_sharp_avancé.dll

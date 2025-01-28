@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo26\bin\Debug\net8.0\exo26.exe
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo26\bin\Debug\net8.0\exo26.deps.json
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo26\bin\Debug\net8.0\exo26.runtimeconfig.json
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo26\bin\Debug\net8.0\exo26.dll
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo26\bin\Debug\net8.0\exo26.pdb
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo26\obj\Debug\net8.0\exo26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo26\obj\Debug\net8.0\exo26.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo26\obj\Debug\net8.0\exo26.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo26\obj\Debug\net8.0\exo26.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo26\obj\Debug\net8.0\exo26.dll
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo26\obj\Debug\net8.0\refint\exo26.dll
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo26\obj\Debug\net8.0\exo26.pdb
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo26\obj\Debug\net8.0\exo26.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo26\obj\Debug\net8.0\ref\exo26.dll

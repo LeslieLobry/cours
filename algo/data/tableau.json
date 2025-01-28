@@ -1,0 +1,7 @@
+{
+    "inventaire " : [
+    {"nom": "Boules de Noël", "quantite": 50, "prix": 1.5},
+    {"nom": "Guirlandes", "quantite": 30, "prix": 3.0},
+    {"nom": "Sapin de Noël", "quantite": 10, "prix": 25.0}
+]
+}

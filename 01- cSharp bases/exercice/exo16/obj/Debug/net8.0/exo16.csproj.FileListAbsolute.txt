@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo16\bin\Debug\net8.0\exo16.exe
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo16\bin\Debug\net8.0\exo16.deps.json
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo16\bin\Debug\net8.0\exo16.runtimeconfig.json
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo16\bin\Debug\net8.0\exo16.dll
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo16\bin\Debug\net8.0\exo16.pdb
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo16\obj\Debug\net8.0\exo16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo16\obj\Debug\net8.0\exo16.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo16\obj\Debug\net8.0\exo16.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo16\obj\Debug\net8.0\exo16.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo16\obj\Debug\net8.0\exo16.dll
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo16\obj\Debug\net8.0\refint\exo16.dll
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo16\obj\Debug\net8.0\exo16.pdb
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo16\obj\Debug\net8.0\exo16.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo16\obj\Debug\net8.0\ref\exo16.dll

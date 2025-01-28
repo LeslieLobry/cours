@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo07\bin\Debug\net8.0\exo07.exe
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo07\bin\Debug\net8.0\exo07.deps.json
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo07\bin\Debug\net8.0\exo07.runtimeconfig.json
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo07\bin\Debug\net8.0\exo07.dll
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo07\bin\Debug\net8.0\exo07.pdb
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo07\obj\Debug\net8.0\exo07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo07\obj\Debug\net8.0\exo07.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo07\obj\Debug\net8.0\exo07.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo07\obj\Debug\net8.0\exo07.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo07\obj\Debug\net8.0\exo07.dll
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo07\obj\Debug\net8.0\refint\exo07.dll
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo07\obj\Debug\net8.0\exo07.pdb
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo07\obj\Debug\net8.0\exo07.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\01- cSharp bases\exercice\exo07\obj\Debug\net8.0\ref\exo07.dll
