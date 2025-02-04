@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\tp",
+    "\\tp\\Classes",
     "\\tp\\Models"
   ],
-  "SelectedNode": "\\tp.sln",
+  "SelectedNode": "\\tp\\Classes\\IHM.cs",
   "PreviewInSolutionExplorer": false
 }

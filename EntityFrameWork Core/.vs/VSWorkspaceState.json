@@ -1,4 +1,12 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "\\Entity",
+    "\\Entity\\Entity",
+    "\\Entity\\Entity\\Data",
+    "\\Entity\\tp\\tp",
+    "\\Entity\\tp\\tp\\Classes",
+    "\\Entity\\tp\\tp\\Data",
+    "\\Entity\\tp\\tp\\Models"
+  ],
   "PreviewInSolutionExplorer": false
 }

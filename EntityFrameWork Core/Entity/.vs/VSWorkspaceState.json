@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Entity"
+    "\\tp",
+    "\\tp\\tp"
   ],
-  "SelectedNode": "\\Entity\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

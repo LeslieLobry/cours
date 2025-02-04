@@ -65,8 +65,8 @@ internal class IHM
         Personnage.Degats = int.Parse(Console.ReadLine());
         Console.Write("armure");
         Personnage.Armure = int.Parse(Console.ReadLine());
-        Console.Write("nbr de kill");
-        Personnage.NombrePersonnesTues = int.Parse(Console.ReadLine());
+        Console.Write("date de création");
+        Personnage.DateCreation = DateTime.Parse(Console.ReadLine());
         context.Personnages.Add(Personnage);
         context.SaveChanges();
     }
@@ -81,8 +81,12 @@ internal class IHM
         Console.Write("Entrez le pseudo du personnage à mettre à jour: ");
         string? pseudo = Console.ReadLine();
         var personnage = context.Personnages.FirstOrDefault(p => p.Pseudo == pseudo);
-        if (personnage == null) { Console.WriteLine("Personnage introuvable."); return; }
+        if (personnage == null) 
+        { 
+            Console.WriteLine("Personnage introuvable."); return;
+        }
         Console.Write("Nouveau pseudo : ");
+
         string? nouveauPseudo = Console.ReadLine();
         Console.Write("Nouveaux points de vie : ");
         if (int.TryParse(Console.ReadLine(), out int newPV))
@@ -142,6 +146,42 @@ internal class IHM
             }
         }
         Console.WriteLine($"combat entre {attaquant1.Pseudo} et {attaquant2.Pseudo}");
+        do
+        {
+            int degatsfinaux = attaquant1.Degats - attaquant2.Armure;
+            attaquant2.PointdsDeVie = attaquant2.PointdsDeVie - degatsfinaux;
+            int degatsfinaux = attaquant2.Degats - attaquant1.Armure;
+            attaquant1.PointdsDeVie = attaquant1.PointdsDeVie - degatsfinaux;
+        }
+
+        while (attaquant1.PointdsDeVie > 0 && attaquant2.PointdsDeVie > 0)
+            int degats1 = attaquant1.Degats;
+            attaquant2.PointdsDeVie -= degats1;
+            Console.WriteLine($"{attaquant1.Pseudo} attaque et inflige {degats1} dégâts à {attaquant2.Pseudo}. (PV restants: {attaquant2.PointdsDeVie})");
+
+            if (attaquant2.PointdsDeVie <= 0)
+            {
+                Console.WriteLine($"{attaquant2.Pseudo} est K.O.! {attaquant1.Pseudo} gagne!");
+                attaquant1.NombrePersonnesTues++;
+                context.Personnages.Remove(attaquant2);
+            context.SaveChanges()
+            }
+            int degats2 = attaquant2.Degats;
+            attaquant1.PointdsDeVie -= degats2;
+            Console.WriteLine($"{attaquant2.Pseudo} attaque et inflige {degats2} dégâts à {attaquant1.Pseudo}. (PV restants: {attaquant1.PointdsDeVie})");
+
+            if (attaquant1.PointdsDeVie <= 0)
+            {
+                Console.WriteLine($"{attaquant1.Pseudo} est K.O.! {attaquant2.Pseudo} gagne!");
+              
+                attaquant2.NombrePersonnesTues++;
+                context.Personnages.Remove(attaquant1);
+            context.SaveChanges()
+            }
+            context.SaveChanges();
+        }
     }
 }
+
+
 
