@@ -4,7 +4,7 @@ using HotelApp.Models;
 
 using var context = new ApplicationDbContext();
 
-// Création d'une liste de chambres
+//Création d'une liste de chambres
 //var Chambres = new List<Chambre>
 //{
 //    new Chambre { Tarif = 80.50m, NbrLits = 1},
@@ -14,8 +14,6 @@ using var context = new ApplicationDbContext();
 //    new Chambre { Tarif = 110.25m, NbrLits = 2}
 //};
 
-//context.Chambres.AddRange(Chambres);
-//context.SaveChanges();
 
-Console.WriteLine("Liste des chambres ajoutée avec succès !");
+//Console.WriteLine("Liste des chambres ajoutée avec succès !");
 Ihm.Start();

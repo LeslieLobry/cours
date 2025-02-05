@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using HotelApp.Enums;
 using HotelApp.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace HotelApp.Classes
 {
@@ -26,9 +28,9 @@ namespace HotelApp.Classes
                         AfficherClient();
                         break;
                     case "3":
-                        
+                        AfficherReservationClient();
                         break;
-                    case "4":
+                    case "4": CreerResa();
                        
                         break;
                     case "5":
@@ -64,35 +66,76 @@ namespace HotelApp.Classes
             Client.Nom = Console.ReadLine();
             Console.Write("prénom du client:");
             Client.Prenom = Console.ReadLine();
-            Console.Write("numéro de téléphone du client");
+            Console.Write("numéro de téléphone du client:");
             Client.NumeroTel = Console.ReadLine();
             context.Clients.Add(Client);
             context.SaveChanges();
+            Console.WriteLine("vous êtes parmi nous :)");
         }
         private static void AfficherClient()
         {
             using var context = new ApplicationDbContext();
             context.Clients.ToList().ForEach(c => Console.WriteLine($"{c.Id}---{c.Nom}----{c.Prenom}----{c.NumeroTel}"));
         }
-        private static void AfficherRservationClient()
+        private static void AfficherReservationClient()
         {
             using var context = new ApplicationDbContext();
-        }
+            Console.WriteLine("Vos réservation");
+            Console.Write("votre numero client:");
+            int ClientId = int.Parse(Console.ReadLine());
+            var reservations = context.Reservations
+                               .Where(r => r.ClientId == ClientId)
+                               .ToList();
+            if (reservations.Count == 0)
+            {
+                Console.WriteLine("vous n'avez pas de réservation");
+            }
+            Console.WriteLine($"vos réservation:");
+            foreach (var reservation in reservations)
+            {
+                Console.WriteLine($"{reservation.Id}");
+
+            }
+            }
         private static void CreerResa()
         {
             using var context = new ApplicationDbContext();
-            var Reservation = new Reservation();
+            var reservation = new Reservation();
             Console.WriteLine("nouvelle réservation");
             Console.Write("votre numero client:");
-            Reservation.ClientId = int.Parse(Console.ReadLine());
-            Console.WriteLine("numéro de la chambre"); 
-            Reservation.Chambres.Numéro = int.Parse( Console.ReadLine());
-            //Console.Write("prénom du client:");
-            //Client.Prenom = Console.ReadLine();
-            //Console.Write("numéro de téléphone du client");
-            //Client.NumeroTel = Console.ReadLine();
-            //context.Clients.Add(Client);
-            //context.SaveChanges();
+            reservation.ClientId = int.Parse(Console.ReadLine());
+            var client = context.Clients.Find(reservation.ClientId);
+            if(client == null)
+            {
+                Console.WriteLine("vous n'êtes pas client");
+                return;
+            }
+            Console.WriteLine("numéro de la chambre");
+            int numeroChambre = int.Parse(Console.ReadLine());
+            var chambre = context.Chambres.Find(numeroChambre);
+            reservation.Client = client; 
+            reservation.StatutResa = StatutResa.Prevu; 
+            reservation.Chambres.Add(chambre);
+            if(chambre == null)
+            {
+                Console.WriteLine("nous n'avons pas cette chambre");
+            }
+            if (chambre.StatutChambre != StatutChambre.Libre)
+            {
+                Console.WriteLine("la chambre est déjà réservée"); 
+            }
+            chambre.StatutChambre = StatutChambre.Occupe;
+            context.Reservations.Add(reservation); context.SaveChanges();
+            Console.WriteLine(" Réservation effectuée avec succès !");
+          
+        }
+        private static void SupprimerResa()
+        {
+            using var context = new ApplicationDbContext();
+            Console.WriteLine("supprimer une réservation");
+            Console.WriteLine("Quelle réservation voulez-vous supprimer?"); 
+            int choix = int.Parse(Console.ReadLine());
+            
         }
     }
 }

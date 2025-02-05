@@ -13,7 +13,7 @@ namespace HotelApp.Models
     public class Chambre
     {
         [Key]
-        public int Numéro { get; set; }
+        public int Numero { get; set; }
         [Precision(20,2)]
         public decimal Tarif { get; set; }
         public StatutChambre StatutChambre { get; set; } = StatutChambre.Libre;
