@@ -3,19 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\HotelApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4533C4CC-3D4C-408B-9457-CCD214A7CF3A}|Hotel\\HotelApp.csproj|c:\\users\\administrateur\\desktop\\cours\\cours\\entityframework core\\hotelapp\\hotel\\classes\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4533C4CC-3D4C-408B-9457-CCD214A7CF3A}|Hotel\\HotelApp.csproj|solutionrelative:hotel\\classes\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4533C4CC-3D4C-408B-9457-CCD214A7CF3A}|Hotel\\HotelApp.csproj|c:\\users\\administrateur\\desktop\\cours\\cours\\entityframework core\\hotelapp\\hotel\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533C4CC-3D4C-408B-9457-CCD214A7CF3A}|Hotel\\HotelApp.csproj|solutionrelative:hotel\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533C4CC-3D4C-408B-9457-CCD214A7CF3A}|Hotel\\HotelApp.csproj|c:\\users\\administrateur\\desktop\\cours\\cours\\entityframework core\\hotelapp\\hotel\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533C4CC-3D4C-408B-9457-CCD214A7CF3A}|Hotel\\HotelApp.csproj|solutionrelative:hotel\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533C4CC-3D4C-408B-9457-CCD214A7CF3A}|Hotel\\HotelApp.csproj|c:\\users\\administrateur\\desktop\\cours\\cours\\entityframework core\\hotelapp\\hotel\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533C4CC-3D4C-408B-9457-CCD214A7CF3A}|Hotel\\HotelApp.csproj|solutionrelative:hotel\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4533C4CC-3D4C-408B-9457-CCD214A7CF3A}|Hotel\\HotelApp.csproj|c:\\users\\administrateur\\desktop\\cours\\cours\\entityframework core\\hotelapp\\hotel\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533C4CC-3D4C-408B-9457-CCD214A7CF3A}|Hotel\\HotelApp.csproj|solutionrelative:hotel\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4533C4CC-3D4C-408B-9457-CCD214A7CF3A}|Hotel\\HotelApp.csproj|c:\\users\\administrateur\\desktop\\cours\\cours\\entityframework core\\hotelapp\\hotel\\models\\chambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4533C4CC-3D4C-408B-9457-CCD214A7CF3A}|Hotel\\HotelApp.csproj|solutionrelative:hotel\\models\\chambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__HotelEfcore/master/True/SqlTable/dbo.Chambres.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4533C4CC-3D4C-408B-9457-CCD214A7CF3A}|Hotel\\HotelApp.csproj|c:\\users\\administrateur\\desktop\\cours\\cours\\entityframework core\\hotelapp\\hotel\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4533C4CC-3D4C-408B-9457-CCD214A7CF3A}|Hotel\\HotelApp.csproj|solutionrelative:hotel\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4533C4CC-3D4C-408B-9457-CCD214A7CF3A}|Hotel\\HotelApp.csproj|c:\\users\\administrateur\\desktop\\cours\\cours\\entityframework core\\hotelapp\\hotel\\classes\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4533C4CC-3D4C-408B-9457-CCD214A7CF3A}|Hotel\\HotelApp.csproj|solutionrelative:hotel\\classes\\ihm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4533C4CC-3D4C-408B-9457-CCD214A7CF3A}|Hotel\\HotelApp.csproj|c:\\users\\administrateur\\desktop\\cours\\cours\\entityframework core\\hotelapp\\hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 23,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\HotelApp\\Hotel\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "Hotel\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\HotelApp\\Hotel\\Models\\Client.cs",
+              "RelativeToolTip": "Hotel\\Models\\Client.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T08:14:41.654Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -105,56 +127,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\HotelApp\\Hotel\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Hotel\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\HotelApp\\Hotel\\Models\\Reservation.cs",
+              "RelativeToolTip": "Hotel\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:29:03.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\HotelApp\\Hotel\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "Hotel\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\HotelApp\\Hotel\\Models\\Hotel.cs",
+              "RelativeToolTip": "Hotel\\Models\\Hotel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:28:59.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Ihm.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\HotelApp\\Hotel\\Classes\\Ihm.cs",
               "RelativeDocumentMoniker": "Hotel\\Classes\\Ihm.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\HotelApp\\Hotel\\Classes\\Ihm.cs",
               "RelativeToolTip": "Hotel\\Classes\\Ihm.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAwwF8AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAuwJ8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T15:44:58.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dbo.Chambres [Donn\u00E9es]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__HotelEfcore/master/True/SqlTable/dbo.Chambres.sql",
-              "ToolTip": "dbo.Chambres [Donn\u00E9es]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-02-05T15:38:45.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Chambre.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\HotelApp\\Hotel\\Models\\Chambre.cs",
               "RelativeDocumentMoniker": "Hotel\\Models\\Chambre.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\HotelApp\\Hotel\\Models\\Chambre.cs",
               "RelativeToolTip": "Hotel\\Models\\Chambre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T15:37:35.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\HotelApp\\Hotel\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Hotel\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\HotelApp\\Hotel\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Hotel\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA5wCIAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T15:33:19.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\HotelApp\\Hotel\\Program.cs",
               "RelativeDocumentMoniker": "Hotel\\Program.cs",
@@ -162,8 +200,7 @@
               "RelativeToolTip": "Hotel\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T15:32:23.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T15:32:23.575Z"
             }
           ]
         }

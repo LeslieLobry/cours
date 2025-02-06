@@ -23,7 +23,13 @@ internal class ApplicationDbContext : DbContext
         optionsBuilder.UseSqlServer(@"Data Source=(LocalDB)\HotelEfcore;Integrated Security=True;Encrypt=True");
     }
 
-    //protected override void OnModelCreating(ModelBuilder modelBuilder)
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<Chambre>()
+                    .HasMany(c => c.Reservations)
+                    .WithMany(r => r.Chambres)
+                    .UsingEntity<Reservation>();
+    }
     //{
     //    modelBuilder.Entity<Chambre>().HasData(
     //        new Chambre() { Numero = 101,  Tarif = 80.50, NbrLits = 1 }

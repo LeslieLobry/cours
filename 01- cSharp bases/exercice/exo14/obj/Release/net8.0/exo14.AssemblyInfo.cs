@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exo14")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14a6018e9353ae204d40d48a36d5d533985f9da1")]
 [assembly: System.Reflection.AssemblyProductAttribute("exo14")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exo14")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
