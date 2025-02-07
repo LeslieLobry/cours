@@ -26,34 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 19,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GradingCalculatorTest.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\Test\\Exo1_TDD.Bibliotheque\\Exo1_TDD.TestsxUnit\\GradingCalculatorTest.cs",
-              "RelativeDocumentMoniker": "Exo1_TDD.TestsxUnit\\GradingCalculatorTest.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\Test\\Exo1_TDD.Bibliotheque\\Exo1_TDD.TestsxUnit\\GradingCalculatorTest.cs",
-              "RelativeToolTip": "Exo1_TDD.TestsxUnit\\GradingCalculatorTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T09:21:14.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FibTest.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\Test\\Exo1_TDD.Bibliotheque\\TestProjectMsTest\\FibTest.cs",
-              "RelativeDocumentMoniker": "TestProjectMsTest\\FibTest.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\Test\\Exo1_TDD.Bibliotheque\\TestProjectMsTest\\FibTest.cs",
-              "RelativeToolTip": "TestProjectMsTest\\FibTest.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAA0wGkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T08:37:36.525Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -128,6 +102,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GradingCalculatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\Test\\Exo1_TDD.Bibliotheque\\Exo1_TDD.TestsxUnit\\GradingCalculatorTest.cs",
+              "RelativeDocumentMoniker": "Exo1_TDD.TestsxUnit\\GradingCalculatorTest.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\Test\\Exo1_TDD.Bibliotheque\\Exo1_TDD.TestsxUnit\\GradingCalculatorTest.cs",
+              "RelativeToolTip": "Exo1_TDD.TestsxUnit\\GradingCalculatorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:21:14.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FibTest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\Test\\Exo1_TDD.Bibliotheque\\TestProjectMsTest\\FibTest.cs",
+              "RelativeDocumentMoniker": "TestProjectMsTest\\FibTest.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\Test\\Exo1_TDD.Bibliotheque\\TestProjectMsTest\\FibTest.cs",
+              "RelativeToolTip": "TestProjectMsTest\\FibTest.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwGkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T08:37:36.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MSTestSettings.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\Test\\Exo1_TDD.Bibliotheque\\TestProjectMsTest\\MSTestSettings.cs",
@@ -136,8 +135,7 @@
               "RelativeToolTip": "TestProjectMsTest\\MSTestSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T08:36:23.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T08:36:23.561Z"
             },
             {
               "$type": "Document",
@@ -149,8 +147,7 @@
               "RelativeToolTip": "Exo1_TDD.Bibliotheque\\Fib.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T08:23:00.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-07T08:23:00.896Z"
             }
           ]
         },
