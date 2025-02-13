@@ -1,0 +1,54 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+  
+	ViewData["Title"] = "Contacts List";
+	@model List<Marmoset>
+}
+
+}
+
+<head>
+	<div class="d-flex">
+		<h2>Contact List</h2>
+		<div class="ms-auto">
+			<a asp-action="Create" class="btn btn-success">
+				<span class="bi bi-plus-circle"></span> Add
+			</a>
+		</div>
+	</div>
+	<hr />
+</head>
+<body>
+	<table class="table table-striped">
+		<thead>
+			<tr>
+				<th>#</th>
+				<th>@Html.DisplayNameForInnerType((Marmoset m) => m.Nom)</th>
+				<th>@Html.DisplayNameForInnerType((Marmoset m) => m.Poids)</th>
+				<th>@Html.DisplayNameForInnerType((Marmoset m) => m.Taille)</th>
+				<th>Actions</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var marmoset in Model)
+			{
+				<tr>
+					<td>@marmoset.Id</td>
+					<td>@marmoset.Nom</td>
+					<td>@marmoset.Poids</td>
+					<td>@marmoset.Taille</td>
+					<td><a asp-action="Details" asp-route-id="@marmoset.Id" class="btn btn-secondary"><span class="bi bi-pencil-square"></span> Details</a></td>
+					<td><form asp-action="Delete" asp-route-id="@marmoset.Id" method="post" style="display:inline;"> 
+					 			<button type="submit" class="btn btn-danger">
+									<span class="bi bi-trash"></span> Supprimer 
+								</button> 
+					 		</form> 
+					</td>
+				</tr>
+			}
+		</tbody>
+</body>
+
+

@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\ASP.NET\\Exercice4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DEF832-214F-4EA8-847E-D48407204E4B}|Exercice4\\Exercice4.csproj|c:\\users\\administrateur\\desktop\\cours\\cours\\asp.net\\exercice4\\exercice4\\controllers\\marmosetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DEF832-214F-4EA8-847E-D48407204E4B}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\controllers\\marmosetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DEF832-214F-4EA8-847E-D48407204E4B}|Exercice4\\Exercice4.csproj|c:\\users\\administrateur\\desktop\\cours\\cours\\asp.net\\exercice4\\exercice4\\views\\marmoset\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6DEF832-214F-4EA8-847E-D48407204E4B}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\views\\marmoset\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DEF832-214F-4EA8-847E-D48407204E4B}|Exercice4\\Exercice4.csproj|c:\\users\\administrateur\\desktop\\cours\\cours\\asp.net\\exercice4\\exercice4\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DEF832-214F-4EA8-847E-D48407204E4B}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DEF832-214F-4EA8-847E-D48407204E4B}|Exercice4\\Exercice4.csproj|c:\\users\\administrateur\\desktop\\cours\\cours\\asp.net\\exercice4\\exercice4\\models\\marmoset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DEF832-214F-4EA8-847E-D48407204E4B}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\models\\marmoset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DEF832-214F-4EA8-847E-D48407204E4B}|Exercice4\\Exercice4.csproj|c:\\users\\administrateur\\desktop\\cours\\cours\\asp.net\\exercice4\\exercice4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DEF832-214F-4EA8-847E-D48407204E4B}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DEF832-214F-4EA8-847E-D48407204E4B}|Exercice4\\Exercice4.csproj|c:\\users\\administrateur\\desktop\\cours\\cours\\asp.net\\exercice4\\exercice4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6DEF832-214F-4EA8-847E-D48407204E4B}|Exercice4\\Exercice4.csproj|solutionrelative:exercice4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 597,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\ASP.NET\\Exercice4\\Exercice4\\Views\\Marmoset\\List.cshtml",
+              "RelativeDocumentMoniker": "Exercice4\\Views\\Marmoset\\List.cshtml",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\ASP.NET\\Exercice4\\Exercice4\\Views\\Marmoset\\List.cshtml",
+              "RelativeToolTip": "Exercice4\\Views\\Marmoset\\List.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T09:45:51.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Marmoset.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\ASP.NET\\Exercice4\\Exercice4\\Models\\Marmoset.cs",
+              "RelativeDocumentMoniker": "Exercice4\\Models\\Marmoset.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\ASP.NET\\Exercice4\\Exercice4\\Models\\Marmoset.cs",
+              "RelativeToolTip": "Exercice4\\Models\\Marmoset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:36:12.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\ASP.NET\\Exercice4\\Exercice4\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice4\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\ASP.NET\\Exercice4\\Exercice4\\Program.cs",
+              "RelativeToolTip": "Exercice4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:16:37.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MarmosetController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\ASP.NET\\Exercice4\\Exercice4\\Controllers\\MarmosetController.cs",
+              "RelativeDocumentMoniker": "Exercice4\\Controllers\\MarmosetController.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\ASP.NET\\Exercice4\\Exercice4\\Controllers\\MarmosetController.cs",
+              "RelativeToolTip": "Exercice4\\Controllers\\MarmosetController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:00:47.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\ASP.NET\\Exercice4\\Exercice4\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Exercice4\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\ASP.NET\\Exercice4\\Exercice4\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Exercice4\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T09:04:49.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\ASP.NET\\Exercice4\\Exercice4\\appsettings.json",
+              "RelativeDocumentMoniker": "Exercice4\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\ASP.NET\\Exercice4\\Exercice4\\appsettings.json",
+              "RelativeToolTip": "Exercice4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T09:04:26.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 714,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

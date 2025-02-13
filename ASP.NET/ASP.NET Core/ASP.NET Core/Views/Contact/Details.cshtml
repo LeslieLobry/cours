@@ -1,0 +1,32 @@
+﻿
+@model Contact
+@{
+    ViewData["Title"] = "Détails";
+}
+
+    <div>
+        <h1>Le détails du contact #@Model.Id</h1>
+
+<div class="container">
+        <h2>Détails du contact</h2>
+        <table class="table">
+            <tr>
+                <th>ID</th>
+                <td>@Model.Id</td>
+            </tr>
+            <tr>
+                <th>Nom</th>
+                <td>@Model.Nom</td>
+            </tr>
+            <tr>
+                <th>Prénom</th>
+                <td>@Model.Prenom</td>
+            </tr>
+            <tr>
+                <th>Âge</th>
+                <td>@Model.Age</td>
+            </tr>
+        </table>
+        <a href="/Contact/Index" class="btn btn-primary">Retour</a>
+    </div>
+</div>

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\Entity\\tp\\tp\\Models\\Personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\tp\\tp\\Models\\Personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\Entity\\tp\\tp\\Classes\\IHM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\tp\\tp\\Classes\\IHM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\Entity\\tp\\tp\\Models\\Personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entity\\tp\\tp\\Models\\Personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\Entity\\tp\\tp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,8 +29,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IHM.cs",
+              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\Entity\\tp\\tp\\Classes\\IHM.cs",
+              "RelativeDocumentMoniker": "Entity\\tp\\tp\\Classes\\IHM.cs",
+              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\Entity\\tp\\tp\\Classes\\IHM.cs",
+              "RelativeToolTip": "Entity\\tp\\tp\\Classes\\IHM.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:01:41.963Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -113,8 +127,7 @@
               "RelativeToolTip": "Entity\\tp\\tp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T10:05:36.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T10:05:36.17Z"
             },
             {
               "$type": "Document",
@@ -126,43 +139,28 @@
               "RelativeToolTip": "Entity\\tp\\tp\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T09:05:32.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T09:05:32.568Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "dbo.Personnages [Donn\u00E9es]",
+              "Title": "dbo.Personnages.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__TpEntity/master/True/SqlTable/dbo.Personnages.sql",
-              "ToolTip": "dbo.Personnages [Donn\u00E9es]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__TpEntity/master/True/SqlTable/dbo.Personnages.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-02-04T08:41:36.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-04T08:41:36.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Personnage.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\Entity\\tp\\tp\\Models\\Personnage.cs",
               "RelativeDocumentMoniker": "Entity\\tp\\tp\\Models\\Personnage.cs",
               "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\Entity\\tp\\tp\\Models\\Personnage.cs",
               "RelativeToolTip": "Entity\\tp\\tp\\Models\\Personnage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T08:02:55.317Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IHM.cs",
-              "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\Entity\\tp\\tp\\Classes\\IHM.cs",
-              "RelativeDocumentMoniker": "Entity\\tp\\tp\\Classes\\IHM.cs",
-              "ToolTip": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\EntityFrameWork Core\\Entity\\tp\\tp\\Classes\\IHM.cs",
-              "RelativeToolTip": "Entity\\tp\\tp\\Classes\\IHM.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAAALsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T08:01:41.963Z",
               "EditorCaption": ""
             }
           ]

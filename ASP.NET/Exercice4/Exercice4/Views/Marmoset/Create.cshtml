@@ -1,0 +1,50 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+	@model Marmoset
+}
+
+<head>
+	<h2>Create a Contact</h2>
+	<hr />
+</head>
+<body>
+	<form asp-action="Create" method="post">
+		<div class="row mb-3">
+			<div class="col-4">
+				<label class="form-label" asp-for="Nom"></label>
+			</div>
+			<div class="col-8">
+				<input class="form-control" asp-for="Nom" />
+			</div>
+		</div>
+
+		<div class="row mb-3">
+			<div class="col-4">
+				<label class="form-label" asp-for="Poids"></label>
+			</div>
+			<div class="col-8">
+				<input class="form-control" asp-for="Poids" />
+			</div>
+		</div>
+
+		<div class="row mb-3">
+			<div class="col-4">
+				<label class="form-label" asp-for="Taille"></label>
+			</div>
+			<div class="col-8">
+				<input class="form-control" asp-for="Taille" />
+			</div>
+		</div>
+		<div class="d-flex">
+			<button class="ms-auto btn btn-success"><span class="bi bi-plus-circle"></span> Add</button>
+		</div>
+	</form>
+
+	 <form asp-action="CreateRandom" method="post"> 
+	 	<button type="submit" class="btn btn-primary"> 
+			<span class="bi bi-plus-circle"></span> Ajouter un Marmoset aléatoire 
+	 	</button> 
+		</form> 
+</body>

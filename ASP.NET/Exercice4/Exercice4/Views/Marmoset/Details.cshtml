@@ -1,0 +1,19 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+	@model Marmoset
+}
+
+<head>
+	<h2>Marmoset #@Model.Id</h2>
+	<hr />
+</head>
+<body>
+	<ul>
+		<li><b>@Html.DisplayNameFor(m => m.Nom)</b> : @Model.Nom</li>
+		<li><b>@Html.DisplayNameFor(m => m.Poids)</b> : @Model.Poids</li>
+		<li><b>@Html.DisplayNameFor(m => m.Taille)</b> : @Model.Taille</li>
+	</ul>
+	<a class="nav-link text-dark" asp-area="" asp-controller="Marmoset" asp-action="List">Marmosets</a>
+	</body>

@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{3D00B6B7-7FC8-4091-9935-048BDC299D06}|Exo1_TDD.TestsxUnit\\Exo1_TDD.TestsxUnit.csproj|solutionrelative:exo1_tdd.testsxunit\\gradingcalculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6675CEF6-AAD1-44CE-A47A-40CE53B87426}|Exo1_TDD.Bibliotheque\\Exo1_TDD.Bibliotheque.csproj|c:\\users\\administrateur\\desktop\\cours\\cours\\test\\exo1_tdd.bibliotheque\\exo1_tdd.bibliotheque\\fib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6675CEF6-AAD1-44CE-A47A-40CE53B87426}|Exo1_TDD.Bibliotheque\\Exo1_TDD.Bibliotheque.csproj|solutionrelative:exo1_tdd.bibliotheque\\fib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{58E3DA71-DFC6-489C-8603-C6793E08C59C}|TestProjectMsTest\\TestProjectMsTest.csproj|c:\\users\\administrateur\\desktop\\cours\\cours\\test\\exo1_tdd.bibliotheque\\testprojectmstest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58E3DA71-DFC6-489C-8603-C6793E08C59C}|TestProjectMsTest\\TestProjectMsTest.csproj|solutionrelative:testprojectmstest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6675CEF6-AAD1-44CE-A47A-40CE53B87426}|Exo1_TDD.Bibliotheque\\Exo1_TDD.Bibliotheque.csproj|c:\\users\\administrateur\\desktop\\cours\\cours\\test\\exo1_tdd.bibliotheque\\exo1_tdd.bibliotheque\\fib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6675CEF6-AAD1-44CE-A47A-40CE53B87426}|Exo1_TDD.Bibliotheque\\Exo1_TDD.Bibliotheque.csproj|solutionrelative:exo1_tdd.bibliotheque\\fib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -127,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MSTestSettings.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\Test\\Exo1_TDD.Bibliotheque\\TestProjectMsTest\\MSTestSettings.cs",
               "RelativeDocumentMoniker": "TestProjectMsTest\\MSTestSettings.cs",
@@ -139,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Fib.cs",
               "DocumentMoniker": "C:\\Users\\Administrateur\\Desktop\\cours\\cours\\Test\\Exo1_TDD.Bibliotheque\\Exo1_TDD.Bibliotheque\\Fib.cs",
               "RelativeDocumentMoniker": "Exo1_TDD.Bibliotheque\\Fib.cs",
